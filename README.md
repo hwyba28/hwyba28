@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hailey (HWY-KYUNG) SONG
 - 👀 I’m interested in Programming, Animals, Medical,..
-- 🌱 I’m currently learning a variety of IT.
+- 🌱 I’m currently developing an iOS App..
 <!--- 💞️ I’m looking to collaborate on ---> 
 
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/108180200/219012910-2a5235c7-214b-42a3-94ce-8f55f9c8e9b7.png">
