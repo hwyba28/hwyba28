@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning a variety of IT.
 <!--- 💞️ I’m looking to collaborate on ---> 
 - 📫 How to reach me: dev.hwyba@gmail.com<br>
+<br>
 [Below is my resume]
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/108180200/219012910-2a5235c7-214b-42a3-94ce-8f55f9c8e9b7.png">
 
