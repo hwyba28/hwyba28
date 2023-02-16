@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hailey (HWY-KYUNG) SONG
-- 🌱 I’m currently developing an IOS Application..
+- 🌱 I’m currently developing an <b>IOS Application</b>..
 
 - 👀 I’m interested in Programming, Animals, Medical,..
 - 💞️ Looking for people to collaborate on a new project!<br>
