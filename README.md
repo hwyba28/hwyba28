@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Hailey (HWY-KYUNG) SONG
 - 🌱 I’m currently developing an <b>IOS Application</b>..
 
-- 👀 I’m interested in Programming, Animals, Medical,..
+- 👀 I’m interested in various fields like Health Care, Pet business..etc <br>
+  And I love to turn creative ideas and various technologies into reality !
 - 💞️ Looking for people to collaborate on a new project!<br>
 - 📫 How to reach me: dev.hwyba@gmail.com
 <br>
