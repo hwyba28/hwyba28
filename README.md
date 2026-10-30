@@ -29,7 +29,8 @@ data layer designed to plug in U.S. sources (openFDA, RxNorm). SwiftUI · SwiftD
 ---
 
 ### Earlier work
-- **[BearFruit](https://github.com/hwyba28/Bearfruit_Released)** (2022) — gamified habit & goal tracker; my first app, built solo from planning to App Store release
+- **[Ongo Funnel](https://github.com/hwyba28/Ongo_Funnel)** (2025) — end-to-end automated funnel: Reels ads → survey → GPT analysis → email → Stripe payment → TestFlight access. 46% response rate, $0.13 CPC
+- **[BearFruit](https://github.com/hwyba28/Bearfruit_Released)** (2023) — gamified habit & goal tracker; my first app, built solo from planning to App Store release
 - **[DolphinAir](https://github.com/hwyba28/DolphinAir-Web-Site)** — airline booking website (Java · JSP · Spring · Oracle)
 - **[House Prices Regression](https://github.com/hwyba28/House_Prices_Regression)** — data preprocessing & ML modeling (Python)
 - **[42 Seoul C Library](https://github.com/hwyba28/42_Seoul_C_Library)** — C fundamentals
